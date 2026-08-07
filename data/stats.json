@@ -1,0 +1,32 @@
+{
+  "badgeText": "OUR IMPACT",
+  "titleLine1": "Numbers That Reflect",
+  "titleHighlight": "Real Communities",
+  "items": [
+    {
+      "value": "14,000+",
+      "label": "Customers",
+      "subtext": "Served across our network"
+    },
+    {
+      "value": "9",
+      "label": "Locations",
+      "subtext": "Active stores and sites"
+    },
+    {
+      "value": "6",
+      "label": "Cities",
+      "subtext": "Present in Portugal"
+    },
+    {
+      "value": "Global",
+      "label": "Expansion",
+      "subtext": "Romania & Netherlands"
+    },
+    {
+      "value": "Daily",
+      "label": "Fresh Deliveries",
+      "subtext": "Farm-to-shelf freshness"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "badgeText": "PORTUGAL · EUROPE · WORLD",
+  "titleLine1": "Growing",
+  "titleLine2": "Communities",
+  "titleLine3": "Through",
+  "titleHighlight": "Innovation,",
+  "titleLine4": "Retail & Agriculture",
+  "description": "A diversified European business group delivering trusted retail, agriculture, wholesale, recruitment, and consumer brands with a commitment to quality, sustainability, and long-term partnerships.",
+  "primaryCtaLabel": "Explore Our Businesses",
+  "primaryCtaLink": "#businesses",
+  "secondaryCtaLabel": "Our Story",
+  "secondaryCtaLink": "#about",
+  "logoUrl": "/assets/logo.png",
+  "heroBgUrl": "/assets/hero-img.png",
+  "navLinks": [
+    { "label": "Home", "href": "#hero" },
+    { "label": "About", "href": "#about" },
+    { "label": "Businesses", "href": "#businesses" },
+    { "label": "Founders", "href": "#founders" },
+    { "label": "Contact", "href": "#contact" }
+  ]
+}
