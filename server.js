@@ -11,6 +11,7 @@ const foundersRoutes = require("./routes/foundersRoutes");
 const testimonialsRoutes = require("./routes/testimonialsRoutes");
 const contactRoutes = require("./routes/contactRoutes");
 const footerRoutes = require("./routes/footerRoutes");
+const businessDetailRoutes = require("./routes/businessDetailRoutes");
 const uploadRoutes = require("./routes/uploadRoutes");
 const healthRoutes = require("./routes/healthRoutes");
 
@@ -25,6 +26,7 @@ app.use(express.json());
 app.use("/api/hero", heroRoutes);
 app.use("/api/stats", statsRoutes);
 app.use("/api/about", aboutRoutes);
+app.use("/api/businesses/detail", businessDetailRoutes);
 app.use("/api/businesses", businessesRoutes);
 app.use("/api/values", valuesRoutes);
 app.use("/api/brands", brandsRoutes);

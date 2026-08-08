@@ -1,0 +1,280 @@
+{
+  "slug": "wholesale",
+  "name": "MARL Wholesale",
+  "badge": "KING INTERNATIONALS · MARL WHOLESALE",
+  "hero": {
+    "titleLine1": "Fresh Produce at",
+    "titleHighlight": "Wholesale Scale",
+    "subtitle": "Supplying businesses across Portugal with premium-quality fruits and vegetables sourced directly from our farms and trusted agricultural partners in Spain. Every day, freshness, quality, and competitive wholesale pricing.",
+    "primaryCtaLabel": "Get in Touch",
+    "primaryCtaLink": "#contact",
+    "secondaryCtaLabel": "View Product Range",
+    "secondaryCtaLink": "#products",
+    "bgImageUrl": "/assets/business-assets/wholesale/hero-bg.jpg"
+  },
+  "about": {
+    "tag": "WHOLESALE EXCELLENCE",
+    "titleLine1": "Built on",
+    "titleHighlight": "Freshness",
+    "paragraph1": "MARL is King Internationals' dedicated wholesale fresh produce division, created to provide businesses with reliable access to high-quality fruits and vegetables in bulk quantities.",
+    "paragraph2": "By combining produce grown on our own farms with carefully selected imports from Spain, we ensure a consistent supply of fresh products throughout the year. Our commitment to quality, efficiency, and dependable service makes MARL a trusted sourcing destination for businesses of every size.",
+    "bulletPoints": [
+      "Daily fresh arrivals",
+      "Own farm produce",
+      "Spanish imports",
+      "Bulk pricing"
+    ],
+    "imageUrl": "/assets/business-assets/wholesale/about-feature.jpg"
+  },
+  "productRange": {
+    "tag": "",
+    "titleLine1": "A Complete Selection",
+    "titleHighlight": "of Fresh Produce",
+    "items": [
+      {
+        "id": "fresh-vegetables",
+        "title": "Fresh Vegetables",
+        "description": "A wide variety of locally grown and imported vegetables selected for freshness and consistency.",
+        "imageUrl": "/assets/business-assets/wholesale/product-vegetables.jpg",
+        "tags": [
+          "Leafy Greens",
+          "Tomatoes",
+          "Potatoes",
+          "Onions",
+          "Carrots",
+          "Peppers",
+          "Cucumbers",
+          "Seasonal Vegetables"
+        ]
+      },
+      {
+        "id": "fresh-fruits",
+        "title": "Fresh Fruits",
+        "description": "Carefully sourced fruits from our farms and trusted Spanish growers.",
+        "imageUrl": "/assets/business-assets/wholesale/product-fruits.jpg",
+        "tags": [
+          "Apples",
+          "Citrus Fruits",
+          "Pears",
+          "Grapes",
+          "Melons",
+          "Bananas",
+          "Berries",
+          "Seasonal Fruits"
+        ]
+      },
+      {
+        "id": "seasonal-produce",
+        "title": "Seasonal Produce",
+        "description": "Throughout the year, our selection evolves to reflect the best seasonal harvests.",
+        "imageUrl": "/assets/business-assets/wholesale/product-seasonal.jpg",
+        "tags": [
+          "Spring Harvest",
+          "Summer Specialties",
+          "Autumn Varieties",
+          "Winter Root Vegetables",
+          "Regional Produce",
+          "Heritage Varieties",
+          "Organic Selection",
+          "Premium Grade"
+        ]
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "",
+    "titleLine1": "Quality at Every Step",
+    "titleHighlight": "",
+    "items": [
+      {
+        "id": "quality-step",
+        "number": "1",
+        "title": "Quality at Every Step",
+        "description": "Every product is carefully selected to ensure freshness, appearance, and quality before reaching our market."
+      },
+      {
+        "id": "reliable-supply",
+        "number": "2",
+        "title": "Reliable Supply",
+        "description": "Our established sourcing network guarantees a consistent supply of seasonal and year-round produce."
+      },
+      {
+        "id": "competitive-pricing",
+        "number": "3",
+        "title": "Competitive Wholesale Pricing",
+        "description": "Bulk purchasing allows businesses to access premium products while maintaining cost efficiency."
+      },
+      {
+        "id": "fresh-daily-deliveries",
+        "number": "4",
+        "title": "Fresh Daily Deliveries",
+        "description": "New arrivals every day ensure our customers always have access to the freshest produce available."
+      }
+    ]
+  },
+  "whoWeServe": {
+    "tag": "",
+    "titleLine1": "Wholesale Solutions for",
+    "titleHighlight": "Every Food Business",
+    "items": [
+      {
+        "id": "supermarkets",
+        "number": "01",
+        "title": "Supermarkets",
+        "description": "Reliable daily supplies to keep shelves stocked with fresh, high-quality produce."
+      },
+      {
+        "id": "restaurants",
+        "number": "02",
+        "title": "Restaurants",
+        "description": "Fresh ingredients that meet the exacting demands of professional kitchens."
+      },
+      {
+        "id": "catering-companies",
+        "number": "03",
+        "title": "Catering Companies",
+        "description": "Bulk purchasing options for events and large-scale food preparation."
+      },
+      {
+        "id": "hotels",
+        "number": "04",
+        "title": "Hotels",
+        "description": "Premium fruits and vegetables tailored for hospitality operations."
+      },
+      {
+        "id": "food-distributors",
+        "number": "05",
+        "title": "Food Distributors",
+        "description": "Consistent supply for businesses serving regional and national markets."
+      },
+      {
+        "id": "independent-retailers",
+        "number": "06",
+        "title": "Independent Retailers",
+        "description": "Flexible wholesale solutions for local fruit and vegetable stores."
+      }
+    ]
+  },
+  "journey": {
+    "titleLine1": "A Carefully Managed",
+    "titleHighlight": "Journey",
+    "paragraph": "Freshness begins long before products arrive at MARL. Every stage of the process is designed to preserve quality and ensure customers receive produce at its best.",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Growing",
+        "description": "Produce cultivated on our farms using responsible agricultural practices."
+      },
+      {
+        "number": "2",
+        "title": "Harvesting",
+        "description": "Picked at the ideal stage of maturity for maximum freshness and flavour."
+      },
+      {
+        "number": "3",
+        "title": "Quality Inspection",
+        "description": "Every batch is carefully checked to meet our quality standards."
+      },
+      {
+        "number": "4",
+        "title": "Distribution",
+        "description": "Transported efficiently through our cold-chain logistics network."
+      },
+      {
+        "number": "5",
+        "title": "Available at MARL",
+        "description": "Ready for businesses to purchase in bulk with complete confidence."
+      }
+    ]
+  },
+  "reasonsToChoose": {
+    "tag": "",
+    "titleLine1": "Why Businesses",
+    "titleHighlight": "Choose MARL",
+    "items": [
+      {
+        "id": "fresh-produce-every-day",
+        "title": "Fresh Produce Every Day",
+        "description": "Daily deliveries ensure a continuous supply of fresh products to meet your operational needs."
+      },
+      {
+        "id": "direct-farm-partnerships",
+        "title": "Direct Farm Partnerships",
+        "description": "Produce sourced directly from our farms and carefully vetted growers across Portugal and Spain."
+      },
+      {
+        "id": "wide-product-availability",
+        "title": "Wide Product Availability",
+        "description": "An extensive range of fruits and vegetables available throughout the year, every season."
+      },
+      {
+        "id": "consistent-quality",
+        "title": "Consistent Quality",
+        "description": "Strict quality standards maintained across every product category and every single delivery."
+      },
+      {
+        "id": "efficient-wholesale-experience",
+        "title": "Efficient Wholesale Experience",
+        "description": "Designed to make sourcing fresh produce simple, reliable, and cost-effective for your business."
+      },
+      {
+        "id": "trusted-by-professionals",
+        "title": "Trusted by Professionals",
+        "description": "Supporting retailers, hospitality businesses, caterers, and wholesalers across Portugal."
+      }
+    ]
+  },
+  "gallery": {
+    "tag": "GALLERY",
+    "titleLine1": "Inside Our Wholesale",
+    "titleHighlight": "Facilities",
+    "images": [
+      "/assets/business-assets/wholesale/gallery-1.jpg",
+      "/assets/business-assets/wholesale/gallery-2.jpg",
+      "/assets/business-assets/wholesale/gallery-3.jpg",
+      "/assets/business-assets/wholesale/gallery-4.jpg",
+      "/assets/business-assets/wholesale/gallery-5.jpg",
+      "/assets/business-assets/wholesale/gallery-6.jpg"
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "titleLine1": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "Who can purchase from MARL?",
+        "answer": "MARL Wholesale serves supermarkets, restaurants, catering companies, hotels, food distributors, and independent retailers requiring produce in wholesale quantities."
+      },
+      {
+        "id": "faq-2",
+        "question": "Where is the produce sourced?",
+        "answer": "Our produce is sourced directly from King Internationals' own agricultural farms as well as carefully selected agricultural partners in Spain."
+      },
+      {
+        "id": "faq-3",
+        "question": "Is fresh produce available every day?",
+        "answer": "Yes, we receive daily fresh deliveries to ensure continuous product availability and maximum shelf life for all our wholesale clients."
+      },
+      {
+        "id": "faq-4",
+        "question": "Do you stock seasonal produce?",
+        "answer": "Yes, our inventory evolves throughout the year to reflect peak seasonal harvests alongside essential year-round staples."
+      },
+      {
+        "id": "faq-5",
+        "question": "What types of products are available?",
+        "answer": "We offer a complete range of fresh vegetables, leafy greens, orchard fruits, citrus, berries, and seasonal regional produce."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Start Sourcing",
+    "titleHighlight": "Partner with MARL",
+    "subtitle": "Reliable, fresh wholesale produce delivered every day. Get in touch to discuss your requirements and discover how MARL can support your business.",
+    "ctaLabel": "Get in Touch",
+    "ctaLink": "#contact",
+    "bgImageUrl": "/assets/business-assets/wholesale/cta-bg.jpg"
+  }
+}

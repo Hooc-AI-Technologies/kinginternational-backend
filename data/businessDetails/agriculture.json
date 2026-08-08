@@ -1,0 +1,215 @@
+{
+  "slug": "agriculture",
+  "name": "Agriculture",
+  "badge": "KING INTERNATIONALS · AGRICULTURE",
+  "hero": {
+    "titleLine1": "Cultivating Growth.",
+    "titleHighlight": "Harvesting Success.",
+    "subtitle": "Supporting farmers with quality agricultural products, trusted expertise, and reliable resources that help every season reach its full potential. From planting to harvest, committed to strengthening agriculture through sustainable practices.",
+    "primaryCtaLabel": "Our Solutions",
+    "primaryCtaLink": "#solutions",
+    "secondaryCtaLabel": "FAQs",
+    "secondaryCtaLink": "#faqs",
+    "bgImageUrl": "/assets/business-assets/agriculture/hero-bg.jpg"
+  },
+  "about": {
+    "tag": "ABOUT AGRICULTURE",
+    "titleLine1": "Supporting Agriculture with",
+    "titleHighlight": "Quality and Expertise",
+    "paragraph1": "Agriculture is at the heart of sustainable communities and long-term growth. At King Internationals, we provide farmers, growers, and agricultural businesses with carefully selected products and resources that promote healthy crops and productive harvests.",
+    "paragraph2": "Our commitment is built on quality, reliability, and practical solutions that help meet the evolving needs of modern farming.",
+    "bulletPoints": [
+      "Quality-selected products",
+      "Sustainable practices",
+      "Reliable availability",
+      "Farmer-focused service"
+    ],
+    "imageUrl": "/assets/business-assets/agriculture/about-feature.jpg"
+  },
+  "productRange": {
+    "tag": "OUR AGRICULTURAL SOLUTIONS",
+    "titleLine1": "Everything You Need for a",
+    "titleHighlight": "Productive Season",
+    "items": [
+      {
+        "id": "seeds",
+        "number": "01",
+        "title": "Seeds",
+        "description": "High-quality seed varieties selected for strong growth, consistency, and performance across diverse farming conditions.",
+        "iconName": "lightbulb"
+      },
+      {
+        "id": "farming-tools",
+        "number": "02",
+        "title": "Farming Tools",
+        "description": "Reliable tools and equipment designed to improve efficiency and simplify everyday agricultural tasks.",
+        "iconName": "briefcase"
+      },
+      {
+        "id": "crop-care-products",
+        "number": "03",
+        "title": "Crop Care Products",
+        "description": "Solutions that help maintain healthy crops and support optimal growing conditions throughout the season.",
+        "iconName": "globe"
+      },
+      {
+        "id": "agricultural-resources",
+        "number": "04",
+        "title": "Agricultural Resources",
+        "description": "Products and practical solutions that assist farmers in achieving productive and sustainable harvests.",
+        "iconName": "package"
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "OUR COMMITMENT",
+    "titleLine1": "Built on Trust,",
+    "titleHighlight": "Grown with Purpose",
+    "items": [
+      {
+        "id": "quality-products",
+        "title": "Quality Products",
+        "description": "Every product is carefully selected to meet the needs of today's agricultural professionals."
+      },
+      {
+        "id": "reliable-solutions",
+        "title": "Reliable Solutions",
+        "description": "We provide dependable agricultural resources that farmers can trust throughout the growing season."
+      },
+      {
+        "id": "supporting-local-agriculture",
+        "title": "Supporting Local Agriculture",
+        "description": "We work alongside farming communities by offering products that contribute to healthier crops and sustainable development."
+      },
+      {
+        "id": "practical-expertise",
+        "title": "Practical Expertise",
+        "description": "Our focus is on delivering solutions that are effective, accessible, and suited to a wide range of farming operations."
+      }
+    ]
+  },
+  "stagesAndSupport": {
+    "tag": "FROM PLANTING TO HARVEST",
+    "titleLine1": "Supporting Every Stage",
+    "titleHighlight": "of Growth",
+    "imageUrl": "/assets/business-assets/agriculture/stages-feature.jpg",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Preparation",
+        "description": "Providing the essential products needed before planting begins."
+      },
+      {
+        "number": "2",
+        "title": "Planting",
+        "description": "Quality seeds and farming supplies to establish healthy crops."
+      },
+      {
+        "number": "3",
+        "title": "Growing",
+        "description": "Reliable crop care solutions that support healthy development."
+      },
+      {
+        "number": "4",
+        "title": "Harvest",
+        "description": "Helping farmers achieve productive, high-quality harvests through dependable agricultural support."
+      }
+    ],
+    "supportTag": "WHO WE SUPPORT",
+    "supportTitleLine1": "Built for Every",
+    "supportTitleHighlight": "Farming Operation",
+    "supportItems": [
+      {
+        "id": "farmers",
+        "title": "Farmers",
+        "description": "Supporting small and large-scale farming operations with dependable products."
+      },
+      {
+        "id": "agri-businesses",
+        "title": "Agricultural Businesses",
+        "description": "Providing reliable resources for commercial agricultural activities."
+      },
+      {
+        "id": "growers",
+        "title": "Growers",
+        "description": "Helping growers maintain healthy crops throughout every season."
+      },
+      {
+        "id": "farming-communities",
+        "title": "Farming Communities",
+        "description": "Contributing to sustainable agriculture through accessible, quality solutions."
+      }
+    ]
+  },
+  "reasonsToChoose": {
+    "tag": "WHY CHOOSE KING INTERNATIONALS AGRICULTURE",
+    "titleLine1": "The Partner Farmers",
+    "titleHighlight": "Can Count On",
+    "theme": "dark",
+    "items": [
+      {
+        "id": "carefully-selected-products",
+        "title": "Carefully Selected Products",
+        "description": "Quality agricultural supplies chosen to support reliable farming outcomes."
+      },
+      {
+        "id": "dependable-availability",
+        "title": "Dependable Availability",
+        "description": "Products available when farmers need them most throughout the growing season."
+      },
+      {
+        "id": "focus-on-sustainability",
+        "title": "Focus on Sustainability",
+        "description": "Supporting agricultural practices that encourage long-term productivity and responsible farming."
+      },
+      {
+        "id": "customer-focused-service",
+        "title": "Customer-Focused Service",
+        "description": "Dedicated to helping agricultural professionals find the right products for their needs."
+      }
+    ]
+  },
+  "gallery": {
+    "tag": "GALLERY",
+    "titleLine1": "Glimpse Into Our",
+    "titleHighlight": "Agriculture",
+    "images": [
+      "/assets/business-assets/agriculture/gallery-1.jpg",
+      "/assets/business-assets/agriculture/gallery-2.jpg",
+      "/assets/business-assets/agriculture/gallery-3.jpg",
+      "/assets/business-assets/agriculture/gallery-4.jpg",
+      "/assets/business-assets/agriculture/gallery-5.jpg",
+      "/assets/business-assets/agriculture/gallery-6.jpg"
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "titleLine1": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "What agricultural products do you provide?",
+        "answer": "We supply high-quality seeds, farming tools, equipment, crop care products, and practical agricultural resources."
+      },
+      {
+        "id": "faq-2",
+        "question": "Who can benefit from your agricultural solutions?",
+        "answer": "Our solutions support individual farmers, commercial agricultural businesses, fruit & vegetable growers, and farming communities."
+      },
+      {
+        "id": "faq-3",
+        "question": "Do you focus on sustainable farming practices?",
+        "answer": "Yes, we prioritize products and expertise that support healthy crop growth, long-term soil health, and sustainable agricultural development."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Growing Together,",
+    "titleHighlight": "Season After Season",
+    "subtitle": "Partner with King Internationals Agriculture for the quality products, reliability, and expertise your farming operation deserves.",
+    "ctaLabel": "Get in Touch",
+    "ctaLink": "#contact",
+    "bgImageUrl": "/assets/business-assets/agriculture/cta-bg.jpg"
+  }
+}

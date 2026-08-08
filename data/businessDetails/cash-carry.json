@@ -1,0 +1,211 @@
+{
+  "slug": "cash-carry",
+  "name": "Cash & Carry",
+  "badge": "KING INTERNATIONALS · CASH & CARRY",
+  "hero": {
+    "titleLine1": "Bulk Buying Made",
+    "titleHighlight": "Simple.",
+    "titleLine2": "Value You Can",
+    "titleHighlight2": "Trust.",
+    "subtitle": "Designed for businesses and bulk buyers, our Cash & Carry stores offer a dependable wholesale shopping experience with a wide range of products, competitive pricing, and consistent availability.",
+    "primaryCtaLabel": "Our Products",
+    "primaryCtaLink": "#products",
+    "secondaryCtaLabel": "FAQs",
+    "secondaryCtaLink": "#faqs",
+    "bgImageUrl": "/assets/business-assets/cash-carry/hero-bg.jpg"
+  },
+  "about": {
+    "tag": "ABOUT CASH & CARRY",
+    "titleLine1": "Wholesale Solutions for",
+    "titleHighlight": "Growing Businesses",
+    "paragraph1": "King Internationals' Cash & Carry division is dedicated to serving businesses that require quality products in larger quantities. With an extensive product range and a focus on efficiency, we help retailers, restaurants, caterers, and independent businesses source everyday essentials with confidence.",
+    "paragraph2": "Our stores are designed to make wholesale shopping straightforward, offering reliable stock, competitive prices, and a seamless purchasing experience.",
+    "bulletPoints": [
+      "Competitive wholesale pricing",
+      "Wide product selection",
+      "Reliable stock availability",
+      "Business-focused service"
+    ],
+    "imageUrl": "/assets/business-assets/cash-carry/about-feature.jpg"
+  },
+  "productRange": {
+    "tag": "OUR PRODUCT RANGE",
+    "titleLine1": "Everything Your Business",
+    "titleHighlight": "Needs",
+    "items": [
+      {
+        "id": "food-grocery",
+        "number": "01",
+        "title": "Food & Grocery",
+        "description": "A wide variety of packaged foods, pantry essentials, beverages, dairy products, frozen goods, and everyday grocery items.",
+        "iconName": "shopping-cart"
+      },
+      {
+        "id": "fresh-produce",
+        "number": "02",
+        "title": "Fresh Produce",
+        "description": "Quality fruits and vegetables sourced from trusted suppliers and available in wholesale quantities.",
+        "iconName": "clock"
+      },
+      {
+        "id": "household-cleaning",
+        "number": "03",
+        "title": "Household & Cleaning",
+        "description": "Cleaning products, hygiene essentials, disposable items, and everyday business supplies.",
+        "iconName": "home"
+      },
+      {
+        "id": "business-essentials",
+        "number": "04",
+        "title": "Business Essentials",
+        "description": "Products tailored to meet the daily operational needs of restaurants, cafés, retailers, catering companies, and hospitality businesses.",
+        "iconName": "briefcase"
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "WHY CHOOSE OUR CASH & CARRY",
+    "titleLine1": "The Wholesale Partner",
+    "titleHighlight": "Built for Business",
+    "items": [
+      {
+        "id": "competitive-pricing",
+        "title": "Competitive Wholesale Pricing",
+        "description": "Cost-effective pricing designed to help businesses maximise value on bulk purchases."
+      },
+      {
+        "id": "wide-selection",
+        "title": "Wide Product Selection",
+        "description": "A diverse inventory covering food, fresh produce, beverages, and business essentials."
+      },
+      {
+        "id": "reliable-stock",
+        "title": "Reliable Stock Availability",
+        "description": "Consistent inventory ensures businesses can shop with confidence throughout the year."
+      },
+      {
+        "id": "convenient-experience",
+        "title": "Convenient Shopping Experience",
+        "description": "Well-organised stores that make wholesale purchasing efficient and hassle-free."
+      },
+      {
+        "id": "quality-products",
+        "title": "Quality Products",
+        "description": "Every product is selected with a focus on quality, reliability, and customer satisfaction."
+      },
+      {
+        "id": "business-service",
+        "title": "Business-Focused Service",
+        "description": "Our experienced team understands the needs of professional buyers and provides dependable support."
+      }
+    ]
+  },
+  "whoWeServe": {
+    "tag": "WHO WE SERVE",
+    "titleLine1": "Designed for Every",
+    "titleHighlight": "Professional Buyer",
+    "items": [
+      {
+        "id": "restaurants-cafes",
+        "number": "01",
+        "title": "Restaurants & Cafés",
+        "description": "Reliable access to fresh ingredients and everyday operational supplies."
+      },
+      {
+        "id": "retail-stores",
+        "number": "02",
+        "title": "Retail Stores",
+        "description": "Bulk purchasing options for grocery shops and independent retailers."
+      },
+      {
+        "id": "catering-companies",
+        "number": "03",
+        "title": "Catering Companies",
+        "description": "Large-quantity products for events, hospitality, and food service operations."
+      },
+      {
+        "id": "hotels",
+        "number": "04",
+        "title": "Hotels",
+        "description": "Wholesale supplies that support daily hospitality requirements."
+      },
+      {
+        "id": "smbs",
+        "number": "05",
+        "title": "Small & Medium Businesses",
+        "description": "Flexible purchasing solutions for businesses across multiple industries."
+      },
+      {
+        "id": "independent-buyers",
+        "number": "06",
+        "title": "Independent Buyers",
+        "description": "Customers looking for quality products in larger quantities at competitive prices."
+      }
+    ]
+  },
+  "storeExperience": {
+    "tag": "A SMARTER WHOLESALE EXPERIENCE",
+    "titleLine1": "Built Around",
+    "titleHighlight": "Business Needs",
+    "paragraph1": "Our Cash & Carry stores are designed to simplify bulk purchasing through efficient layouts, reliable product availability, and a straightforward shopping experience.",
+    "paragraph2": "From everyday essentials to business supplies, every visit is focused on helping customers save time while accessing quality products at wholesale prices.",
+    "bulletPoints": [
+      "Quality You Can Depend On: Every product is selected to meet high consistency and value standards.",
+      "Long-Term Partnerships: Building lasting relationships with dependable service and bulk pricing."
+    ],
+    "imageUrl": "/assets/business-assets/cash-carry/store-experience.jpg"
+  },
+  "gallery": {
+    "tag": "GALLERY",
+    "titleLine1": "Inside Our Cash & Carry",
+    "titleHighlight": "Stores",
+    "images": [
+      "/assets/business-assets/cash-carry/gallery-1.jpg",
+      "/assets/business-assets/cash-carry/gallery-2.jpg",
+      "/assets/business-assets/cash-carry/gallery-3.jpg",
+      "/assets/business-assets/cash-carry/gallery-4.jpg",
+      "/assets/business-assets/cash-carry/gallery-5.jpg",
+      "/assets/business-assets/cash-carry/gallery-6.jpg"
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "titleLine1": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "Who can shop at your Cash & Carry stores?",
+        "answer": "Our Cash & Carry stores are designed for businesses, bulk buyers, retailers, caterers, restaurants, and independent buyers who require quality goods in wholesale quantities."
+      },
+      {
+        "id": "faq-2",
+        "question": "What products are available?",
+        "answer": "We stock a wide variety of packaged foods, fresh produce, beverages, hygiene and cleaning supplies, and everyday operational business essentials."
+      },
+      {
+        "id": "faq-3",
+        "question": "Are products available in bulk quantities?",
+        "answer": "Yes, all products are available in bulk, wholesale quantities with competitive pricing tailored for high-volume purchasing."
+      },
+      {
+        "id": "faq-4",
+        "question": "Do you regularly replenish stock?",
+        "answer": "Yes, we maintain consistent inventory replenishment to ensure reliable stock availability for our business customers throughout the year."
+      },
+      {
+        "id": "faq-5",
+        "question": "What makes King Internationals Cash & Carry different?",
+        "answer": "Our commitment to dependable stock availability, competitive wholesale pricing, efficient store layouts, and dedicated business-focused customer support."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Stock Smarter,",
+    "titleHighlight": "Buy Better",
+    "subtitle": "Visit one of our Cash & Carry locations and experience a wholesale shopping solution built around the real needs of your business.",
+    "ctaLabel": "Get in Touch",
+    "ctaLink": "#contact",
+    "bgImageUrl": "/assets/business-assets/cash-carry/cta-bg.jpg"
+  }
+}
