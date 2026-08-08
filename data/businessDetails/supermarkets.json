@@ -1,0 +1,177 @@
+{
+  "slug": "supermarkets",
+  "name": "Supermarkets",
+  "badge": "KING INTERNATIONALS · SUPERMARKETS",
+  "hero": {
+    "titleLine1": "Freshness Every Day.",
+    "titleHighlight": "Quality You Can Trust.",
+    "subtitle": "Connecting communities with high-quality produce, household essentials, and a warm, reliable shopping experience designed around everyday convenience.",
+    "primaryCtaLabel": "Our Products",
+    "primaryCtaLink": "#products",
+    "secondaryCtaLabel": "Why Shop With Us",
+    "secondaryCtaLink": "#why-choose",
+    "bgImageUrl": "/assets/business-assets/supermarkets/hero-bg.jpg"
+  },
+  "about": {
+    "tag": "ABOUT OUR SUPERMARKETS",
+    "titleLine1": "Freshness & Value for",
+    "titleHighlight": "Every Household",
+    "paragraph1": "King Internationals' Supermarkets division is committed to serving neighborhood communities with a wide variety of fresh groceries, everyday household staples, and premium imported goods.",
+    "paragraph2": "We focus on clean, modern store environments, reliable stock availability, and friendly service that makes daily shopping convenient and enjoyable.",
+    "bulletPoints": [
+      "Daily fresh produce deliveries",
+      "Wide selection of local and global brands",
+      "Competitive prices for everyday value",
+      "Friendly, neighborhood-focused service"
+    ],
+    "imageUrl": "/assets/business-assets/supermarkets/about-feature.jpg"
+  },
+  "productRange": {
+    "tag": "OUR PRODUCT RANGE",
+    "titleLine1": "Everything You Need,",
+    "titleHighlight": "Every Day",
+    "items": [
+      {
+        "id": "fresh-produce",
+        "number": "01",
+        "title": "Fresh Produce",
+        "description": "Locally grown fruits and vegetables delivered fresh daily to ensure maximum flavor and nutrition.",
+        "iconName": "shopping-cart"
+      },
+      {
+        "id": "bakery-dairy",
+        "number": "02",
+        "title": "Bakery & Dairy",
+        "description": "Artisanal breads, fresh milk, cheeses, yogurts, and daily dairy essentials.",
+        "iconName": "clock"
+      },
+      {
+        "id": "pantry-staples",
+        "number": "03",
+        "title": "Pantry Staples",
+        "description": "Quality grains, oils, canned goods, spices, and cooking essentials for everyday meals.",
+        "iconName": "home"
+      },
+      {
+        "id": "international-goods",
+        "number": "04",
+        "title": "Specialty Imports",
+        "description": "Curated selection of international foods and authentic ingredients from around the world.",
+        "iconName": "globe"
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "WHY SHOP WITH US",
+    "titleLine1": "The Supermarket Built Around",
+    "titleHighlight": "Your Family",
+    "items": [
+      {
+        "id": "daily-freshness",
+        "title": "Guaranteed Freshness",
+        "description": "Daily stock replenishment for peak quality in every aisle."
+      },
+      {
+        "id": "fair-prices",
+        "title": "Smart Everyday Value",
+        "description": "Fair pricing on everyday goods to keep family budgets healthy."
+      },
+      {
+        "id": "clean-layout",
+        "title": "Clean, Modern Layouts",
+        "description": "Easily navigate organized aisles designed for fast, hassle-free shopping."
+      },
+      {
+        "id": "diverse-selection",
+        "title": "Wide Product Range",
+        "description": "Thousands of pantry, fresh, frozen, and household products under one roof."
+      },
+      {
+        "id": "community-focus",
+        "title": "Community Connection",
+        "description": "Stores tailored to support and celebrate the unique needs of local neighborhoods."
+      },
+      {
+        "id": "comfortable-environment",
+        "title": "Comfortable Environment",
+        "description": "Modern, clean, and well-organised stores designed for a smooth and pleasant shopping experience."
+      }
+    ]
+  },
+  "featureHighlight": {
+    "tag": "FRESH EVERY DAY",
+    "titleLine1": "Quality You Can",
+    "titleHighlight": "Trust",
+    "paragraph1": "Freshness is at the heart of everything we do. Our produce is delivered regularly, carefully handled, and displayed to maintain the highest standards of quality from arrival to purchase.",
+    "paragraph2": "Whether shopping for daily essentials or planning a family meal, customers can rely on finding fresh products throughout the year.",
+    "imageUrl": "/assets/business-assets/supermarkets/fresh-every-day.jpg"
+  },
+  "storeExperience": {
+    "tag": "STORE EXPERIENCE",
+    "titleLine1": "Serving Our",
+    "titleHighlight": "Communities",
+    "paragraph1": "King Internationals' supermarkets are more than retail stores — they are part of the communities they serve. By offering quality products, friendly service, and convenient locations, we strive to make everyday shopping easier.",
+    "bulletPoints": [
+      "Bright, modern store layouts",
+      "Clearly organised product categories",
+      "Fresh produce displays",
+      "Easy navigation throughout the store",
+      "Helpful and knowledgeable staff",
+      "Fast and convenient checkout experience"
+    ],
+    "imageUrl": "/assets/business-assets/supermarkets/store-experience.jpg"
+  },
+  "gallery": {
+    "tag": "GALLERY",
+    "titleLine1": "A Glimpse Inside Our",
+    "titleHighlight": "Stores",
+    "images": [
+      "/assets/business-assets/supermarkets/gallery-1.jpg",
+      "/assets/business-assets/supermarkets/gallery-2.jpg",
+      "/assets/business-assets/supermarkets/gallery-3.jpg",
+      "/assets/business-assets/supermarkets/gallery-4.jpg",
+      "/assets/business-assets/supermarkets/gallery-5.jpg",
+      "/assets/business-assets/supermarkets/gallery-6.jpg"
+    ]
+  },
+  "faq": {
+    "tag": "FAQ",
+    "titleLine1": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "What products are available in your supermarkets?",
+        "answer": "We offer a comprehensive range of fresh fruits and vegetables, bakery items, dairy, pantry staples, packaged foods, beverages, household care, and specialty international products."
+      },
+      {
+        "id": "faq-2",
+        "question": "Are fresh products delivered regularly?",
+        "answer": "Yes, we receive daily fresh deliveries from trusted local farms and certified suppliers to ensure maximum freshness and quality across our aisles."
+      },
+      {
+        "id": "faq-3",
+        "question": "Where are your supermarkets located?",
+        "answer": "Our supermarkets are strategically located in key neighborhoods across Portugal for convenient access. Visit our contact section to find your nearest location."
+      },
+      {
+        "id": "faq-4",
+        "question": "Do you offer both local and international products?",
+        "answer": "Absolutely! We take pride in supporting local Portuguese producers while offering a wide selection of popular international brands and specialties."
+      },
+      {
+        "id": "faq-5",
+        "question": "What makes King Internationals supermarkets different?",
+        "answer": "Our focus on community-first service, guaranteed daily freshness, fair pricing, and clean, modern store environments sets us apart."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Visit Us Today,",
+    "titleHighlight": "Every Day",
+    "subtitle": "Discover fresh, quality products and a shopping experience your community can rely on, every day.",
+    "ctaLabel": "Get in Touch",
+    "ctaLink": "#contact",
+    "bgImageUrl": "/assets/business-assets/supermarkets/cta-bg.jpg"
+  }
+}
