@@ -11,11 +11,11 @@
     {
       "title": "COMPANY",
       "links": [
-        { "label": "About Us", "url": "/about" },
-        { "label": "Leadership", "url": "/about#leadership" },
-        { "label": "Careers", "url": "/careers" },
-        { "label": "Press", "url": "/press" },
-        { "label": "Sustainability", "url": "/sustainability" }
+        { "label": "About Us", "url": "/#about" },
+        { "label": "Founders", "url": "/#founders" },
+        { "label": "Impact & Stats", "url": "/#stats" },
+        { "label": "Core Values", "url": "/#values" },
+        { "label": "Sustainability", "url": "/#values" }
       ]
     },
     {
@@ -25,34 +25,33 @@
         { "label": "Cash & Carry", "url": "/businesses/cash-carry" },
         { "label": "MARL Wholesale", "url": "/businesses/wholesale" },
         { "label": "Agriculture", "url": "/businesses/agriculture" },
-        { "label": "Recruitment", "url": "/recruitment" }
+        { "label": "All Businesses", "url": "/#businesses" }
       ]
     },
     {
       "title": "BRANDS",
       "links": [
-        { "label": "Casal do Conde", "url": "/brands/casal-do-conde" },
-        { "label": "Água São Silvestre", "url": "/brands/sao-silvestre" },
-        { "label": "Consumer Brands", "url": "/brands" },
-        { "label": "Our Portfolio", "url": "/brands#portfolio" },
-        { "label": "Partnerships", "url": "/partnerships" }
+        { "label": "Casal do Conde", "url": "/#brands" },
+        { "label": "Água São Silvestre", "url": "/#brands" },
+        { "label": "Consumer Brands", "url": "/#brands" },
+        { "label": "Our Portfolio", "url": "/#brands" },
+        { "label": "Testimonials", "url": "/#testimonials" }
       ]
     },
     {
       "title": "CONTACT",
       "links": [
-        { "label": "Get in Touch", "url": "/contact" },
-        { "label": "Store Locator", "url": "/stores" },
-        { "label": "Wholesale Enquiries", "url": "/contact#wholesale" },
-        { "label": "Recruitment", "url": "/recruitment" },
-        { "label": "Media Enquiries", "url": "/contact#media" }
+        { "label": "Get in Touch", "url": "/#contact" },
+        { "label": "Locations", "url": "/#stats" },
+        { "label": "Wholesale Enquiries", "url": "/#contact" },
+        { "label": "Media Enquiries", "url": "/#contact" }
       ]
     }
   ],
   "copyrightText": "© 2026 King Internationals. All rights reserved. Headquartered in Portugal.",
   "bottomLinks": [
-    { "label": "Privacy Policy", "url": "/privacy" },
-    { "label": "Terms of Use", "url": "/terms" },
-    { "label": "Careers", "url": "/careers" }
+    { "label": "Home", "url": "/#hero" },
+    { "label": "Businesses", "url": "/#businesses" },
+    { "label": "Contact Us", "url": "/#contact" }
   ]
 }
