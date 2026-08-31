@@ -19,8 +19,35 @@ const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-// Middleware
-app.use(cors());
+// ─── CORS ────────────────────────────────────────────────────────────────────
+// In development ALLOWED_ORIGINS is not set, so we allow any origin.
+// In production set ALLOWED_ORIGINS as a comma-separated list of allowed URLs,
+// e.g. ALLOWED_ORIGINS=https://kinginternational.com,https://admin.kinginternational.com
+const rawOrigins = process.env.ALLOWED_ORIGINS;
+const allowedOrigins = rawOrigins
+  ? rawOrigins.split(",").map((o) => o.trim())
+  : null; // null → open (dev mode)
+
+const corsOptions = {
+  origin: allowedOrigins
+    ? (origin, callback) => {
+        // Allow requests with no origin header (mobile apps, curl, SSR, health checks)
+        if (!origin || allowedOrigins.includes(origin)) {
+          callback(null, true);
+        } else {
+          callback(new Error(`CORS: origin '${origin}' not allowed`));
+        }
+      }
+    : "*", // Dev: allow all
+  methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
+  allowedHeaders: ["Content-Type", "Authorization"],
+  credentials: true,
+};
+
+app.use(cors(corsOptions));
+// Respond to all preflight requests
+app.options("*", cors(corsOptions));
+// ─────────────────────────────────────────────────────────────────────────────
 app.use(express.json());
 app.use("/uploads", express.static(path.join(__dirname, "public", "uploads")));
 
