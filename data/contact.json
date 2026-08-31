@@ -4,5 +4,12 @@
   "description": "Partner with King Internationals to discover trusted retail, agriculture, wholesale, and business solutions designed for long-term success.",
   "ctaLabel": "Contact Us",
   "ctaLink": "/contact",
-  "bgImageUrl": "/assets/contact.png"
+  "bgImageUrl": "/assets/contact.png",
+  "email": "contact@kinginternational.pt",
+  "phone": "+351 21 000 0000",
+  "officeAddress": "Avenida da Liberdade 120, 1250-144 Lisboa, Portugal",
+  "officeHours": "Monday - Friday: 08:30 - 18:00 (WET)",
+  "pageBadge": "CONTACT US",
+  "pageTitle": "Let's Build Great Partnerships",
+  "pageSubtitle": "Have a question about our supermarket network, wholesale operations, agriculture partnerships, or brand distribution? Our team is ready to assist you."
 }

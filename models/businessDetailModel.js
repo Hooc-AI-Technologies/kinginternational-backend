@@ -498,6 +498,110 @@ const DEFAULT_BUSINESS_DETAILS = {
   }
 };
 
+const createDefaultTemplateForSlug = (slug) => {
+  const formattedName = slug
+    .split("-")
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(" ");
+  return {
+    slug: slug,
+    name: `King ${formattedName}`,
+    badge: `PORTUGAL · ${formattedName.toUpperCase()}`,
+    hero: {
+      titleLine1: `${formattedName}.`,
+      titleHighlight: "Operational Excellence.",
+      titleLine2: "Quality Service.",
+      subtitle: `Delivering premium ${formattedName.toLowerCase()} solutions across Portugal and Europe.`,
+      primaryCtaLabel: "Partner With Us",
+      primaryCtaLink: "/contact",
+      secondaryCtaLabel: "Explore Offerings",
+      secondaryCtaLink: "#products",
+      bgImageUrl: "/assets/supermarket.png",
+    },
+    about: {
+      tag: "ABOUT DIVISION",
+      titleLine1: "Committed to Delivering",
+      titleHighlight: "Value & Excellence",
+      paragraph1: `King ${formattedName} is a strategic division of King Internationals group.`,
+      paragraph2:
+        "We maintain highest operational standards and long-term customer partnerships.",
+      bulletPoints: [
+        "Reliable service and dedicated team",
+        "Strict quality assurance across all operations",
+        "Strategic European distribution and support",
+      ],
+      imageUrl: "/assets/supermarket.png",
+    },
+    productRange: {
+      tag: "OUR OFFERINGS",
+      titleLine1: "Comprehensive Solutions For",
+      titleHighlight: "Our Clients",
+      items: [
+        {
+          id: "offering-1",
+          number: "01",
+          title: "Primary Commercial Offering",
+          description: "Details regarding the main service and product line.",
+          iconName: "package",
+        },
+        {
+          id: "offering-2",
+          number: "02",
+          title: "Secondary Service Line",
+          description: "High standard commercial support and distribution.",
+          iconName: "store",
+        },
+      ],
+    },
+    whyChoose: {
+      tag: "WHY CHOOSE US",
+      titleLine1: "Why Partners Trust",
+      titleHighlight: `King ${formattedName}`,
+      theme: "light",
+      items: [
+        {
+          id: "why-1",
+          title: "Quality Guarantee",
+          description: "Strict quality control and trusted performance.",
+        },
+        {
+          id: "why-2",
+          title: "Reliable Support",
+          description:
+            "Dedicated account representatives and prompt communication.",
+        },
+      ],
+    },
+    gallery: {
+      tag: "FACILITY HIGHLIGHTS",
+      titleLine1: "Operations & Facilities",
+      titleHighlight: "Across Portugal",
+      images: ["/assets/supermarket.png", "/assets/warehouse.png"],
+    },
+    faq: {
+      tag: "QUESTIONS & ANSWERS",
+      titleLine1: "Frequently Asked",
+      titleHighlight: "Questions",
+      items: [
+        {
+          id: "faq-1",
+          question: `How do I inquire about King ${formattedName} services?`,
+          answer:
+            "You can reach out directly through our contact page or speak to our corporate desk.",
+        },
+      ],
+    },
+    ctaBanner: {
+      titleLine1: `Partner With King ${formattedName}`,
+      titleHighlight: "Today",
+      subtitle: "Discover how our division can support your growth.",
+      ctaLabel: "Contact Division Desk",
+      ctaLink: "/contact",
+      bgImageUrl: "/assets/supermarket.png",
+    },
+  };
+};
+
 const getBusinessDetailData = (slug) => {
   try {
     const file = path.join(DATA_DIR, `${slug}.json`);
@@ -508,7 +612,13 @@ const getBusinessDetailData = (slug) => {
   } catch (err) {
     console.error(`[BusinessDetailModel] Error reading ${slug}.json:`, err);
   }
-  return DEFAULT_BUSINESS_DETAILS[slug] || null;
+  if (DEFAULT_BUSINESS_DETAILS[slug]) {
+    return DEFAULT_BUSINESS_DETAILS[slug];
+  }
+  // Auto create template for newly added custom business
+  const generated = createDefaultTemplateForSlug(slug);
+  saveBusinessDetailData(slug, generated);
+  return generated;
 };
 
 const saveBusinessDetailData = (slug, data) => {

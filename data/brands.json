@@ -10,17 +10,49 @@
       "ctaLabel": "Discover the Brand",
       "ctaLink": "/brands/casal-do-conde",
       "imageUrl": "/assets/wine-bottle.png",
-      "spanClass": "col-span-1 lg:col-span-2 row-span-1 lg:row-span-2 min-h-[460px] lg:min-h-[560px]"
+      "spanClass": "col-span-1 lg:col-span-2 row-span-1 lg:row-span-2 min-h-[460px] lg:min-h-[560px]",
+      "heroSubtitle": "Award-winning Portuguese wines from the Tejo region, crafted with tradition and recognised internationally for exceptional quality.",
+      "heroBgClass": "bg-[#0b1c11]",
+      "heritage": "Casal do Conde is one of the Tejo region’s most distinguished wine estates. For decades, our vineyards have blended traditional Portuguese grape varieties with modern winemaking techniques, yielding wines characterized by rich aromas, complex bodies, and deep regional character.",
+      "sourcing": "100% sourced from sustainable estate vineyards in the Ribatejo plains, certified DOC Tejo. Hand-picked grapes undergo cold fermentation in modern stainless steel vats before aging in French oak casks.",
+      "specs": [
+        { "title": "Origin", "value": "DOC Tejo, Portugal" },
+        { "title": "Category", "value": "DOC Premium Red, White & Rosé Wines" },
+        { "title": "Key Notes", "value": "Rich red fruits, balanced tannins, smooth oak finish" }
+      ],
+      "certifications": [
+        "DOC Tejo Certified",
+        "Sustainable Viticulture",
+        "Gold Medal Winner"
+      ],
+      "bannerCtaText": "Explore Casal do Conde Collection",
+      "bannerCtaLink": "/contact"
     },
     {
       "id": "agua-sao-silvestre",
       "tag": "BRAND · WATER",
       "title": "Água São Silvestre",
-      "description": "",
+      "description": "Pure premium mineral water sourced from deep natural springs in Portugal, offering pristine quality, balanced mineralization, and a clean, refreshing taste.",
       "ctaLabel": "Learn More",
       "ctaLink": "/brands/sao-silvestre",
       "imageUrl": "/assets/brand-water.png",
-      "spanClass": "col-span-1 min-h-[260px]"
+      "spanClass": "col-span-1 min-h-[260px]",
+      "heroSubtitle": "Pristine natural spring water from the protected volcanic aquifers of central Portugal.",
+      "heroBgClass": "bg-[#0b151d]",
+      "heritage": "Água São Silvestre represents purity and balanced wellness. Filtered naturally through layers of volcanic granite rock aquifers in Portugal, our mineral water emerges with a pristine mineral balance that is perfect for health-conscious hydration.",
+      "sourcing": "Sourced directly from protected deep underground natural springs in central Portugal, bottled directly at the source to preserve chemical purity and clean taste.",
+      "specs": [
+        { "title": "Origin", "value": "Natural Springs, Central Portugal" },
+        { "title": "Category", "value": "Prism/Still Mineral Water" },
+        { "title": "Mineralization", "value": "Low Sodium, Silica Rich, Alkaline pH" }
+      ],
+      "certifications": [
+        "Naturally Alkaline",
+        "Pristine Purity",
+        "Bottled at Source"
+      ],
+      "bannerCtaText": "Inquire About Water Distribution",
+      "bannerCtaLink": "/contact"
     },
     {
       "id": "rooh-afza",
@@ -30,7 +62,23 @@
       "ctaLabel": "Learn More",
       "ctaLink": "/brands/rooh-afza",
       "imageUrl": "/assets/beverages.png",
-      "spanClass": "col-span-1 min-h-[260px]"
+      "spanClass": "col-span-1 min-h-[260px]",
+      "heroSubtitle": "The iconic herbal cooling beverage bringing refreshment and vibrant flavor to European homes.",
+      "heroBgClass": "bg-[#360913]",
+      "heritage": "Rooh Afza is a legendary herbal concentrate enjoyed by millions across generations. Formulated from premium distillate extracts of rose, mint, coriander, and summer fruits, it provides unrivaled summer refreshment and cool vitality.",
+      "sourcing": "Imported and packaged under strict quality specifications to preserve the authentic floral distillates and complex cooling properties.",
+      "specs": [
+        { "title": "Origin", "value": "Traditional Distillates" },
+        { "title": "Category", "value": "Rose-Infused Cooling Syrup" },
+        { "title": "Serving Style", "value": "Diluted in water, milk, or over desserts" }
+      ],
+      "certifications": [
+        "Natural Herbal Distillates",
+        "100% Vegetarian",
+        "Generations of Heritage"
+      ],
+      "bannerCtaText": "Wholesale & Retail Inquiries",
+      "bannerCtaLink": "/contact"
     },
     {
       "id": "zaika",
@@ -40,7 +88,23 @@
       "ctaLabel": "Discover the Brand",
       "ctaLink": "/brands/zaika",
       "imageUrl": "/assets/zaika.png",
-      "spanClass": "col-span-1 lg:col-span-2 min-h-[280px]"
+      "spanClass": "col-span-1 lg:col-span-2 min-h-[280px]",
+      "heroSubtitle": "Pure, authentic spice blends and culinary staples crafted for home chefs and commercial food service.",
+      "heroBgClass": "bg-[#2e1509]",
+      "heritage": "Zaika represents the peak of aromatic culinary blends. Sourced from high-grade spice estates, our spices are ground using proprietary cool-milling methods to retain volatile essential oils, ensuring robust aroma and taste.",
+      "sourcing": "Directly imported from verified ethical farms, quality-audited at our central warehouse, and packed in flavor-locking barrier pouches.",
+      "specs": [
+        { "title": "Origin", "value": "Ethical Spice Estates" },
+        { "title": "Category", "value": "Premium Ground Spices & Custom Blends" },
+        { "title": "Quality", "value": "100% Pure, no additives or fillers" }
+      ],
+      "certifications": [
+        "Cool-Milled Aroma Lock",
+        "Zero Additives",
+        "Direct Farm Sourced"
+      ],
+      "bannerCtaText": "Explore Commercial Spices",
+      "bannerCtaLink": "/contact"
     },
     {
       "id": "desi-chai",
@@ -50,7 +114,23 @@
       "ctaLabel": "Learn More",
       "ctaLink": "/brands/desi-chai",
       "imageUrl": "/assets/tea.png",
-      "spanClass": "col-span-1 min-h-[280px]"
+      "spanClass": "col-span-1 min-h-[280px]",
+      "heroSubtitle": "Authentic Assam black tea expertly blended with natural crushed spices for a warming, full-bodied cup.",
+      "heroBgClass": "bg-[#211109]",
+      "heritage": "Desi Chai is a celebration of rich tea culture. Blending high-grown Assam black CTC tea with crushed cardamom, ginger, cloves, and cinnamon, our blends offer a warm, comforting milk tea experience.",
+      "sourcing": "Sourced from high-altitude tea gardens in India, blended in small batches with premium spices to ensure consistent cup strength and spice aroma.",
+      "specs": [
+        { "title": "Origin", "value": "Assam Gardens, India" },
+        { "title": "Category", "value": "Masala Chai Blends" },
+        { "title": "Base Type", "value": "CTC Black Tea + Natural Crushed Spices" }
+      ],
+      "certifications": [
+        "High-Grown Assam Leaf",
+        "Hand-Crushed Spices",
+        "Small-Batch Blended"
+      ],
+      "bannerCtaText": "Request Tea Samples",
+      "bannerCtaLink": "/contact"
     }
   ]
 }

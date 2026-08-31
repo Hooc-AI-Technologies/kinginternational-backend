@@ -1,0 +1,166 @@
+{
+  "slug": "supermarkets",
+  "name": "King Supermarkets",
+  "badge": "PORTUGAL · RETAIL EXCELLENCE",
+  "hero": {
+    "titleLine1": "Fresh Everyday.",
+    "titleHighlight": "Community Focused.",
+    "titleLine2": "Quality Always.",
+    "subtitle": "Bringing high quality groceries, fresh produce, and everyday household essentials directly to Portuguese families across 9 strategic supermarket locations.",
+    "primaryCtaLabel": "Find a Store",
+    "primaryCtaLink": "/#contact",
+    "secondaryCtaLabel": "Our Product Range",
+    "secondaryCtaLink": "#products",
+    "bgImageUrl": "/assets/supermarket.png"
+  },
+  "about": {
+    "tag": "OUR RETAIL VISION",
+    "titleLine1": "Serving Local Neighbourhoods With",
+    "titleHighlight": "Freshness & Care",
+    "paragraph1": "King Supermarkets is the flagship retail arm of King Internationals, built on a foundation of quality, affordability, and community engagement. Our stores offer a warm, welcoming environment with an extensive selection of fresh fruits, vegetables, meats, bakery goods, and everyday household items.",
+    "paragraph2": "We source directly from local farmers and trusted suppliers, ensuring farm-to-shelf freshness while keeping prices competitive for local families.",
+    "bulletPoints": [
+      "Fresh daily deliveries from local Portuguese farms",
+      "Curated selection of national and international brands",
+      "Modern, clean, and accessible store layouts",
+      "Dedicated customer care team committed to excellence"
+    ],
+    "imageUrl": "/assets/supermarket.png"
+  },
+  "productRange": {
+    "tag": "OUR OFFERINGS",
+    "titleLine1": "Comprehensive Product Selection For",
+    "titleHighlight": "Every Household",
+    "items": [
+      {
+        "id": "fresh-produce",
+        "number": "01",
+        "title": "Fresh Produce & Organic Goods",
+        "description": "Daily harvested vegetables, seasonal fruits, and certified organic produce sourced directly from Portuguese growers.",
+        "iconName": "shopping-bag"
+      },
+      {
+        "id": "meat-bakery",
+        "number": "02",
+        "title": "Butchery & Fresh Bakery",
+        "description": "Premium cuts of fresh meat, artisan bread baked in-store daily, and handcrafted traditional pastry selections.",
+        "iconName": "store"
+      },
+      {
+        "id": "pantry-essentials",
+        "number": "03",
+        "title": "Pantry & Groceries",
+        "description": "Extensive selection of staples, oils, spices, beverages, and packaged goods from top European brands.",
+        "iconName": "package"
+      },
+      {
+        "id": "household-care",
+        "number": "04",
+        "title": "Household & Personal Care",
+        "description": "Complete range of hygiene products, cleaning supplies, and home care essentials at value pricing.",
+        "iconName": "home"
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "THE KING DIFFERENCE",
+    "titleLine1": "Why Communities Choose",
+    "titleHighlight": "King Supermarkets",
+    "theme": "light",
+    "items": [
+      {
+        "id": "quality-guarantee",
+        "title": "Quality Guarantee",
+        "description": "Strict quality checks on all incoming goods to guarantee maximum freshness and safety."
+      },
+      {
+        "id": "competitive-pricing",
+        "title": "Competitive Pricing",
+        "description": "Fair everyday pricing paired with frequent promotional offers and savings packages."
+      },
+      {
+        "id": "convenient-locations",
+        "title": "Convenient Locations",
+        "description": "Strategically located stores with convenient parking and accessibility for local residents."
+      }
+    ]
+  },
+  "whoWeServe": {
+    "tag": "WHO WE SERVE",
+    "titleLine1": "Catering to the Unique Needs of",
+    "titleHighlight": "Our Shoppers",
+    "items": [
+      {
+        "id": "families",
+        "title": "Local Families",
+        "description": "Providing nutritious fresh foods and monthly pantry staples at prices that help manage household budgets."
+      },
+      {
+        "id": "home-chefs",
+        "title": "Home Chefs & Bakers",
+        "description": "Sourcing specialty ingredients, fresh herbs, and premium local meat and fish cuts for culinary lovers."
+      },
+      {
+        "id": "health-conscious",
+        "title": "Health-Conscious Buyers",
+        "description": "Offering certified bio, organic produce, gluten-free, and plant-based alternatives in every department."
+      }
+    ]
+  },
+  "featureHighlight": {
+    "tag": "FRESH HIGHLIGHT",
+    "titleLine1": "Artisan Bread Baked",
+    "titleHighlight": "Fresh Every Hour",
+    "paragraph1": "Our in-store bakeries operate around the clock to bring you traditional Portuguese bread, pastries, and croissants straight from the oven. We use only premium local grains and traditional sourdough fermenting methods.",
+    "paragraph2": "Smell the freshness the moment you walk through our doors, and enjoy crispy, warm bread made with clean, simple ingredients.",
+    "imageUrl": "/assets/supermarket.png",
+    "imagePosition": "right"
+  },
+  "storeExperience": {
+    "tag": "STORE EXPERIENCE",
+    "titleLine1": "Designed For A Comfortable &",
+    "titleHighlight": "Easy Shopping Trip",
+    "paragraph1": "We organize our supermarkets with wide, well-lit aisles and clear department sections to minimize stress. Our friendly floor staff are always on hand to help you find items or carry heavy shopping to your car.",
+    "bulletPoints": [
+      "Express checkouts and modern self-scan terminals",
+      "Ample parking with dedicated family spaces",
+      "Eco-friendly reusable bag incentives"
+    ],
+    "imageUrl": "/assets/about-img.png"
+  },
+  "gallery": {
+    "tag": "STORE HIGHLIGHTS",
+    "titleLine1": "Inside Our Supermarkets",
+    "titleHighlight": "Across Portugal",
+    "images": [
+      "/assets/supermarket.png",
+      "/assets/cash-n-carry.png",
+      "/assets/warehouse.png"
+    ]
+  },
+  "faq": {
+    "tag": "QUESTIONS & ANSWERS",
+    "titleLine1": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "id": "faq-1",
+        "question": "What are the standard supermarket operating hours?",
+        "answer": "Most of our King Supermarket locations are open 7 days a week from 8:00 AM to 9:00 PM."
+      },
+      {
+        "id": "faq-2",
+        "question": "Do you offer home delivery service?",
+        "answer": "Yes, home delivery is available in select cities. Please contact your nearest store for details."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Visit Your Nearest",
+    "titleHighlight": "King Supermarket Today",
+    "subtitle": "Experience fresh produce, great savings, and friendly community service.",
+    "ctaLabel": "Find Store Location",
+    "ctaLink": "/#contact",
+    "bgImageUrl": "/assets/supermarket.png"
+  }
+}

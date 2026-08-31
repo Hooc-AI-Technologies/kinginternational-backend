@@ -1,0 +1,166 @@
+{
+  "slug": "wholesale",
+  "name": "MARL Wholesale Operations",
+  "badge": "LISBON · AGRI-FOOD DISTRIBUTION",
+  "hero": {
+    "titleLine1": "Strategic Agri-Food.",
+    "titleHighlight": "Market Leadership.",
+    "titleLine2": "Direct Distribution.",
+    "subtitle": "Operating at MARL (Mercado de Abastecimento da Região de Lisboa), Lisbon's central agri-food hub, connecting agricultural producers directly to national and international markets.",
+    "primaryCtaLabel": "Become a Partner",
+    "primaryCtaLink": "/#contact",
+    "secondaryCtaLabel": "Distribution Network",
+    "secondaryCtaLink": "#about",
+    "bgImageUrl": "/assets/warehouse.png"
+  },
+  "about": {
+    "tag": "OUR HUB AT MARL",
+    "titleLine1": "Lisbon's Premier Food Distribution",
+    "titleHighlight": "Infrastructure",
+    "paragraph1": "MARL Wholesale is King Internationals' core logistical hub for agri-food products in Greater Lisbon. Operating within the region's largest food market, we manage large-scale wholesale supply of fresh produce, imports, and exports.",
+    "paragraph2": "With dedicated temperature-controlled storage and efficient logistics, MARL Wholesale provides reliable supply chain continuity for supermarkets, distributors, and exporters across Southern Europe.",
+    "bulletPoints": [
+      "Prime location inside Lisbon's premier wholesale food market (MARL)",
+      "Direct link between agricultural growers and commercial buyers",
+      "Advanced cold-chain storage and logistics infrastructure",
+      "Export capabilities across Europe and international destinations"
+    ],
+    "imageUrl": "/assets/warehouse.png"
+  },
+  "productRange": {
+    "tag": "CORE CATEGORIES",
+    "titleLine1": "Fresh Produce & Bulk Distribution",
+    "titleHighlight": "Services",
+    "items": [
+      {
+        "id": "fresh-fruits-veg",
+        "number": "01",
+        "title": "Fresh Fruits & Vegetables",
+        "description": "Citrus, apples, berries, root vegetables, and leafy greens supplied fresh daily.",
+        "iconName": "sprout"
+      },
+      {
+        "id": "imported-exotics",
+        "number": "02",
+        "title": "Imported Produce & Exotics",
+        "description": "Global sourcing of tropical fruits, off-season produce, and specialty culinary items.",
+        "iconName": "globe"
+      },
+      {
+        "id": "logistics-storage",
+        "number": "03",
+        "title": "Cold-Chain Logistics",
+        "description": "Climate-controlled warehousing and cross-docking distribution services.",
+        "iconName": "truck"
+      },
+      {
+        "id": "export-services",
+        "number": "04",
+        "title": "European Trade & Export",
+        "description": "Facilitating Portuguese agricultural exports to EU markets.",
+        "iconName": "building-2"
+      }
+    ]
+  },
+  "stagesAndSupport": {
+    "tag": "SUPPLY CHAIN FLOW",
+    "titleLine1": "Optimizing Every Phase of",
+    "titleHighlight": "Wholesale Distribution",
+    "imageUrl": "/assets/warehouse.png",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Grower Receipt & Sorting",
+        "description": "Receiving fresh crops directly from Portuguese farmlands, followed by automatic size sorting and quality screening."
+      },
+      {
+        "number": "02",
+        "title": "Cold Storage Placement",
+        "description": "Transferring produce into customized climate zones to halt decay and maintain nutritional freshness."
+      },
+      {
+        "number": "03",
+        "title": "Order Picking & Cross-Docking",
+        "description": "Aggregating bulk orders and transferring them straight to shipping bays with minimal delay."
+      },
+      {
+        "number": "04",
+        "title": "Express Dispatch",
+        "description": "Fleet dispatch to supermarkets, retail centers, and Southern European food hubs."
+      }
+    ],
+    "supportTag": "TRADE SUPPORT",
+    "supportTitleLine1": "Logistical Support For",
+    "supportTitleHighlight": "B2B Partners",
+    "supportItems": [
+      {
+        "id": "customs",
+        "title": "Export Customs Compliance",
+        "description": "Full handling of phytosanitary certificates, custom declarations, and shipping documents."
+      },
+      {
+        "id": "packaging",
+        "title": "Custom Co-Packing",
+        "description": "Bulk repackaging and private labelling according to your company's retail requirements."
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "MARKET STRENGTH",
+    "titleLine1": "Why Partners Trust",
+    "titleHighlight": "MARL Wholesale",
+    "theme": "light",
+    "items": [
+      {
+        "id": "strategic-hub",
+        "title": "Strategic Location",
+        "description": "Located at Portugal's principal logistical distribution node."
+      },
+      {
+        "id": "direct-sourcing",
+        "title": "Direct Producer Ties",
+        "description": "Eliminating unnecessary intermediaries for maximum producer and buyer value."
+      },
+      {
+        "id": "cold-chain",
+        "title": "Certified Cold-Chain Integrity",
+        "description": "Unbroken temperature preservation from field arrival to dispatch."
+      }
+    ]
+  },
+  "gallery": {
+    "tag": "MARL LOGISTICS",
+    "titleLine1": "Our Distribution Hub",
+    "titleHighlight": "In Action",
+    "images": [
+      "/assets/warehouse.png",
+      "/assets/agriculture.png",
+      "/assets/cash-n-carry.png"
+    ]
+  },
+  "faq": {
+    "tag": "LOGISTICS FAQ",
+    "titleLine1": "MARL Wholesale Hub",
+    "titleHighlight": "Inquiries",
+    "items": [
+      {
+        "id": "faq-marl-1",
+        "question": "Where is the MARL hub located?",
+        "answer": "Our operations are located inside MARL - Mercado de Abastecimento da Região de Lisboa, Loures, Portugal."
+      },
+      {
+        "id": "faq-marl-2",
+        "question": "Do you offer export capabilities to other European countries?",
+        "answer": "Yes, we handle international shipping and export compliance for produce sent across the EU."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Connect With Our MARL Hub",
+    "titleHighlight": "Distribution Team",
+    "subtitle": "Inquire about wholesale supply contracts or producer partnerships.",
+    "ctaLabel": "Contact MARL Hub",
+    "ctaLink": "/#contact",
+    "bgImageUrl": "/assets/warehouse.png"
+  }
+}

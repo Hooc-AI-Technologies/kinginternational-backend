@@ -1,0 +1,166 @@
+{
+  "slug": "agriculture",
+  "name": "King Agriculture",
+  "badge": "PORTUGAL · SUSTAINABLE FARMING",
+  "hero": {
+    "titleLine1": "Sustainable Farming.",
+    "titleHighlight": "Premium Produce.",
+    "titleLine2": "From Field to Table.",
+    "subtitle": "Cultivating high-yield, eco-friendly agricultural operations in Portugal, focusing on premium produce, soil health, and sustainable supply chains.",
+    "primaryCtaLabel": "Learn About Farming",
+    "primaryCtaLink": "#about",
+    "secondaryCtaLabel": "Partner With Us",
+    "secondaryCtaLink": "/#contact",
+    "bgImageUrl": "/assets/agriculture.png"
+  },
+  "about": {
+    "tag": "SUSTAINABLE CULTIVATION",
+    "titleLine1": "Responsible Agriculture Rooted In",
+    "titleHighlight": "Innovation & Soil Care",
+    "paragraph1": "King Agriculture represents our commitment to responsible land management and agricultural self-sufficiency. By employing modern farming technologies alongside eco-friendly practices, we produce top-tier fruits, vegetables, and crops.",
+    "paragraph2": "Our crops directly feed into King Supermarkets and King Cash & Carry networks, guaranteeing that our customers enjoy genuine farm-to-table freshness.",
+    "bulletPoints": [
+      "Eco-friendly irrigation and water management techniques",
+      "Zero-waste agricultural harvesting procedures",
+      "Direct integration into King retail & wholesale channels",
+      "Continuous soil testing and organic enrichment"
+    ],
+    "imageUrl": "/assets/agriculture.png"
+  },
+  "productRange": {
+    "tag": "FARM PRODUCE",
+    "titleLine1": "Cultivated With Excellence &",
+    "titleHighlight": "Environmental Care",
+    "items": [
+      {
+        "id": "horticultural-crops",
+        "number": "01",
+        "title": "Horticultural Crops",
+        "description": "Fresh tomatoes, peppers, cucumbers, and brassicas grown in ideal Portuguese climate conditions.",
+        "iconName": "sprout"
+      },
+      {
+        "id": "orchard-fruits",
+        "number": "02",
+        "title": "Orchard Fruits & Citrus",
+        "description": "Sweet citrus, apples, pears, and stone fruits cultivated for optimal taste and nutrition.",
+        "iconName": "sun"
+      },
+      {
+        "id": "sustainable-grain",
+        "number": "03",
+        "title": "Arable Farming",
+        "description": "Sustainable grain and fodder production supporting regional agriculture and livestock.",
+        "iconName": "wheat"
+      },
+      {
+        "id": "greenhouse-produce",
+        "number": "04",
+        "title": "Controlled-Environment Produce",
+        "description": "High-efficiency greenhouse farming ensuring year-round supply of fresh greens.",
+        "iconName": "home"
+      }
+    ]
+  },
+  "stagesAndSupport": {
+    "tag": "CULTIVATION CYCLES",
+    "titleLine1": "Supporting Every Stage of",
+    "titleHighlight": "Sustainable Growth",
+    "imageUrl": "/assets/agriculture.png",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Soil Prep & Nutrition",
+        "description": "Enriching the fields with natural green manure and biological compost to ensure high trace mineral content."
+      },
+      {
+        "number": "02",
+        "title": "Drip Irrigation Planting",
+        "description": "Sowing premium non-GMO seeds alongside sensor-driven drip lines to deliver water straight to root bulbs."
+      },
+      {
+        "number": "03",
+        "title": "Organic Plant Protection",
+        "description": "Managing pests using natural predators and plant extract sprays instead of synthetic chemicals."
+      },
+      {
+        "number": "04",
+        "title": "Careful Harvesting",
+        "description": "Hand-picking delicate fruits and automated crop harvesting during cool morning hours to lock in freshness."
+      }
+    ],
+    "supportTag": "FARM SERVICES",
+    "supportTitleLine1": "Sustainable Initiatives",
+    "supportTitleHighlight": "On our Fields",
+    "supportItems": [
+      {
+        "id": "water-recycle",
+        "title": "Water Recycling",
+        "description": "Runoff capture channels and storage reservoirs that recycle up to 40% of irrigation water."
+      },
+      {
+        "id": "solar-energy",
+        "title": "Solar Powered Wells",
+        "description": "Powering farm water pumps and sorting facilities using clean, local photovoltaic solar arrays."
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "SUSTAINABILITY",
+    "titleLine1": "Our Agricultural Guiding",
+    "titleHighlight": "Principles",
+    "theme": "light",
+    "items": [
+      {
+        "id": "eco-stewardship",
+        "title": "Land Stewardship",
+        "description": "Preserving soil vitality and local biodiversity for future generations."
+      },
+      {
+        "id": "water-efficiency",
+        "title": "Precision Irrigation",
+        "description": "Drip irrigation and sensor-driven water conservation practices."
+      },
+      {
+        "id": "traceability",
+        "title": "Full Traceability",
+        "description": "100% transparent supply chain tracking from seed planted to retail shelf."
+      }
+    ]
+  },
+  "gallery": {
+    "tag": "OUR FARMS",
+    "titleLine1": "Portuguese Countryside",
+    "titleHighlight": "Agriculture",
+    "images": [
+      "/assets/agriculture.png",
+      "/assets/warehouse.png",
+      "/assets/supermarket.png"
+    ]
+  },
+  "faq": {
+    "tag": "AGRICULTURE FAQ",
+    "titleLine1": "Farming & Produce",
+    "titleHighlight": "Questions",
+    "items": [
+      {
+        "id": "faq-ag-1",
+        "question": "Where are King Agriculture farms located?",
+        "answer": "Our agricultural estates are situated across key fertile agricultural regions in Portugal."
+      },
+      {
+        "id": "faq-ag-2",
+        "question": "Are King Agriculture products certified sustainable?",
+        "answer": "Yes, our farms comply with European agricultural safety standards and sustainable farming practices."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Partner With King Agriculture",
+    "titleHighlight": "Supply Chain",
+    "subtitle": "Discover how our farm produce can elevate your business.",
+    "ctaLabel": "Contact Agricultural Team",
+    "ctaLink": "/#contact",
+    "bgImageUrl": "/assets/agriculture.png"
+  }
+}

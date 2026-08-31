@@ -1,0 +1,185 @@
+{
+  "slug": "cash-carry",
+  "name": "King Cash & Carry",
+  "badge": "PORTUGAL · WHOLESALE RETAIL",
+  "hero": {
+    "titleLine1": "Bulk Wholesale.",
+    "titleHighlight": "Unbeatable Prices.",
+    "titleLine2": "For Businesses.",
+    "subtitle": "Empowering HoReCa clients, independent retailers, and bulk buyers with high-volume food and non-food wholesale inventory across Portugal.",
+    "primaryCtaLabel": "Partner With Us",
+    "primaryCtaLink": "/#contact",
+    "secondaryCtaLabel": "Explore Wholesale Range",
+    "secondaryCtaLink": "#products",
+    "bgImageUrl": "/assets/cash-n-carry.png"
+  },
+  "about": {
+    "tag": "WHOLESALE SOLUTIONS",
+    "titleLine1": "Your Trusted Supply Partner For",
+    "titleHighlight": "Commercial Growth",
+    "paragraph1": "King Cash & Carry is designed specifically for business buyers, caterers, hotels, restaurants, and convenience store operators who demand bulk inventory at volume pricing.",
+    "paragraph2": "We maintain expansive warehouse spaces stocked with thousands of items, flexible procurement options, and dedicated account support for trade customers.",
+    "bulletPoints": [
+      "Bulk inventory pricing tailored for trade customers",
+      "Streamlined checkout and bulk pickup facilities",
+      "Wide variety of food service and commercial products",
+      "Dedicated account managers for trade contracts"
+    ],
+    "imageUrl": "/assets/cash-n-carry.png"
+  },
+  "productRange": {
+    "tag": "WHOLESALE CATEGORIES",
+    "titleLine1": "Everything Your Business Needs",
+    "titleHighlight": "Under One Roof",
+    "items": [
+      {
+        "id": "commercial-food",
+        "number": "01",
+        "title": "Bulk Food & Catering Ingredients",
+        "description": "Large format oils, flour, rice, canned goods, and dairy products ideal for commercial kitchens.",
+        "iconName": "package"
+      },
+      {
+        "id": "beverages-spirits",
+        "number": "02",
+        "title": "Beverages & Wines",
+        "description": "Comprehensive beverage portfolio including mineral waters, juices, soft drinks, wines, and spirits.",
+        "iconName": "glass-water"
+      },
+      {
+        "id": "frozen-refrigerated",
+        "number": "03",
+        "title": "Frozen & Chilled Foods",
+        "description": "Meats, seafood, prepared items, and frozen desserts stored under strict cold-chain compliance.",
+        "iconName": "snowflake"
+      },
+      {
+        "id": "commercial-supplies",
+        "number": "04",
+        "title": "Packaging & Sanitation Supplies",
+        "description": "Takeaway packaging, industrial cleaning supplies, and kitchen sanitation disposables.",
+        "iconName": "shield"
+      }
+    ]
+  },
+  "whyChoose": {
+    "tag": "ADVANTAGES",
+    "titleLine1": "Why Businesses Choose",
+    "titleHighlight": "King Cash & Carry",
+    "theme": "light",
+    "items": [
+      {
+        "id": "volume-discounts",
+        "title": "Volume Discounts",
+        "description": "Tiered pricing structures that reward higher volume purchases."
+      },
+      {
+        "id": "reliable-supply",
+        "title": "Reliable Stock Availability",
+        "description": "High stock turnover ensuring fast fulfillment for urgent business orders."
+      },
+      {
+        "id": "flexible-payment",
+        "title": "Commercial Credit Terms",
+        "description": "Tailored commercial payment terms for verified trade partners."
+      }
+    ]
+  },
+  "reasonsToChoose": {
+    "tag": "WHY US",
+    "titleLine1": "Additional Commercial",
+    "titleHighlight": "Benefits",
+    "items": [
+      {
+        "id": "vat-invoicing",
+        "title": "Instant VAT Invoicing",
+        "description": "Auto-generated compliant commercial receipts for fast accounting and tax processing."
+      },
+      {
+        "id": "bulk-loading",
+        "title": "Dedicated Loading Bays",
+        "description": "Easy-access loading spaces and utility support to handle bulk transport vehicles safely."
+      }
+    ]
+  },
+  "whoWeServe": {
+    "tag": "OUR CLIENTS",
+    "titleLine1": "Supporting Key Players in the",
+    "titleHighlight": "Food Service Industry",
+    "items": [
+      {
+        "id": "restaurants",
+        "title": "Restaurants & Cafés",
+        "description": "Fresh premium produce, bulk herbs, and kitchen supplies delivered dynamically to support busy kitchens."
+      },
+      {
+        "id": "hotels",
+        "title": "Hotels & Caterers",
+        "description": "Large volume pantry staples, beverages, and sanitation materials to support banquet events."
+      },
+      {
+        "id": "retailers",
+        "title": "Independent Grocers",
+        "description": "Resellable consumer brands and products at competitive wholesale margins."
+      }
+    ]
+  },
+  "journey": {
+    "tag": "ONBOARDING TIMELINE",
+    "titleLine1": "Get Started with",
+    "titleHighlight": "Trade Access",
+    "paragraph": "Join the King Cash & Carry trade network in three simple, quick steps to unlock bulk margins.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Submit Business License",
+        "description": "Complete our trade account application online or in-store with your tax registry details."
+      },
+      {
+        "number": "02",
+        "title": "Review & Verify",
+        "description": "Our commercial desk will verify details and set custom trade credit brackets within 24 hours."
+      },
+      {
+        "number": "03",
+        "title": "Unlock Trade Portal",
+        "description": "Receive your trade card and immediately begin purchasing bulk inventory at exclusive trade prices."
+      }
+    ]
+  },
+  "gallery": {
+    "tag": "WAREHOUSE LOCATIONS",
+    "titleLine1": "State of the Art Wholesale Facilities",
+    "titleHighlight": "In Portugal",
+    "images": [
+      "/assets/cash-n-carry.png",
+      "/assets/warehouse.png",
+      "/assets/supermarket.png"
+    ]
+  },
+  "faq": {
+    "tag": "TRADE FAQ",
+    "titleLine1": "Business Customer",
+    "titleHighlight": "Inquiries",
+    "items": [
+      {
+        "id": "faq-cc-1",
+        "question": "How do I register for a business trade account?",
+        "answer": "You can register online or at any Cash & Carry customer service desk with a valid tax ID and business license."
+      },
+      {
+        "id": "faq-cc-2",
+        "question": "What are the minimum purchase thresholds?",
+        "answer": "We offer both cash purchases with no minimums and bulk trade accounts with tiered discount brackets."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "titleLine1": "Open a Business Account",
+    "titleHighlight": "With King Cash & Carry",
+    "subtitle": "Optimize your commercial supply chain today.",
+    "ctaLabel": "Register Trade Account",
+    "ctaLink": "/#contact",
+    "bgImageUrl": "/assets/cash-n-carry.png"
+  }
+}
