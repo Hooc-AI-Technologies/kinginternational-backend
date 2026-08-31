@@ -65,7 +65,7 @@ const uploadImageToS3 = async (req, res) => {
     const filePath = path.join(uploadsDir, filename);
     fs.writeFileSync(filePath, req.file.buffer);
 
-    const serverUrl = process.env.BACKEND_URL || "http://localhost:5000";
+    const serverUrl = (process.env.BACKEND_URL || "https://kinginternational.hoocaitechnologies.com").replace(/\/+$/, "");
     const localUrl = `${serverUrl}/uploads/${filename}`;
 
     return res.status(200).json({
