@@ -8,5 +8,14 @@
   "tags": ["Customer-First", "Innovation", "Sustainability", "Quality", "Growth"],
   "ctaLabel": "LEARN MORE",
   "ctaLink": "/about",
-  "imageUrl": "/assets/about-img.png"
+  "imageUrl": "/assets/about-img.png",
+  "globalBadgeText": "GLOBAL FOOTPRINT",
+  "globalTitleLine1": "International Recruitment &",
+  "globalTitleHighlight": "European Expansion",
+  "globalParagraph1": "Beyond our extensive retail and agriculture presence in Portugal, King Internationals manages a specialized cross-border recruitment pipeline. We connect high-quality talent from Romania and Southern Europe with strategic roles across EU markets, including our growing networks in the Netherlands.",
+  "globalParagraph2": "Our talent solutions prioritize ethical recruitment, comprehensive onboarding support, and continuous professional integration, ensuring success for both expanding business units and international candidates.",
+  "globalFeatureTitle": "Ethical Operations",
+  "globalFeature1": "100% compliant recruitment processes with European labor regulations.",
+  "globalFeature2": "Active legal support, relocation logistics, and language integration aid.",
+  "globalFeature3": "Direct linkages between European logistics hubs and verified employment sites."
 }
